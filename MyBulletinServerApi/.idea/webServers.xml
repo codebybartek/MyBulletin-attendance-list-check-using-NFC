@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f4ec7b8-a7f4-4027-8d1b-8bab274258ca" name="MyBulletinftp" url="http://vps669485.ovh.net">
+        <fileTransfer host="vps669485.ovh.net" port="22" rootFolder="/var/www/MyBulletin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
