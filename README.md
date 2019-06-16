@@ -1,0 +1,2 @@
+# MyBulletin-attendance-list-check-using-NFC
+My Erasmus project that I have done at Complutanse University of Madrid. MyBulletin combines three separate application, to let the professor check attendence list in quit easy way, using student cards. There is web-application(VUE, HTML5 and CSS3), native-application(Java using Android Studio IDK) and server-api(Laravel). This project will be also published on the University webpage.
